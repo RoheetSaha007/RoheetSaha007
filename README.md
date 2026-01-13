@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Roheet Saha
+
+Full Stack & System Engineering — MERN, Java, C#, SQL, AWS Cloud, IoT, Embedded Systems  
+Building reliable, scalable, and impact-driven engineering solutions across web, cloud, and embedded domains.
 
 <!--
 **RoheetSaha007/RoheetSaha007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
